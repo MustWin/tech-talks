@@ -1,5 +1,4 @@
-Title: Gitting your Clients to Git. Making organizations Transparent via
-Git
+Title: Gitting your Clients to Git. Making organizations Transparent by getting everyone on Git
 
 Speaker: Gonzalo
 
@@ -18,3 +17,14 @@ A couple examples:
 * How Github Issues & Pull Requests help managers understand how much "Work In Progress"
   the engineering team can handle
 * How to share and collaborate on Tech Talk Proposals (So Meta!)
+
+## Fields for Github Proposal
+Link to CFP: https://cfp.githubapp.com/events/github-universe-2017/proposals/new
+
+Title:
+
+Abstract:
+
+Details: 
+
+Pitch:
