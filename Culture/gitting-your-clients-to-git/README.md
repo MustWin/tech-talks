@@ -1,30 +1,27 @@
-Title: Gitting your Clients to Git. Making organizations Transparent by getting everyone on Git
+
+Title: Gitting the CEO to Git. Making organizations Transparent adding everyone to GitHub.
 
 Speaker: Gonzalo
 
-Summary: Many of our clients come to us wanting to improve their
-Engineering Teams throughput & code quality. In our experience the best
-way to fix those issues is to make teams more transparent, and we
-believe Github is one of the best tools for achieving that.
-
-This talk will show how you can use Pull Requests & Github Issues for almost
-anything in your organization and how that will help making your
-workplace a better and healthier place to work.
-
-A couple examples:
-* How to use a Pull Request to change an Office Policy
-* How to use Github to keep track of usability Issues
-* How Github Issues & Pull Requests help managers understand how much "Work In Progress"
-  the engineering team can handle
-* How to share and collaborate on Tech Talk Proposals (So Meta!)
-
-## Fields for Github Proposal
 Link to CFP: https://cfp.githubapp.com/events/github-universe-2017/proposals/new
 
-Title:
-
 Abstract:
+Many of our clients come to us asking for help on improving their Engineering Teams throughput & code quality. In our experience the best way to fix those issues is to make teams more transparent, in this talk we'll show how to achieve
+this using a platform you know and love: GitHub.
+
+This talk will show how you can use Pull Requests & Github Issues for almost
+anything in your organization and show how this collaborative worklfow will help making your
+workplace a better and healthier place to work.
 
 Details: 
 
+This talk will go over real stories where we:
+* Used Git Logs to Reverse Engineer the real Engineering Org Structure (Conway would be proud)
+* Used a Pull Request to change an Office Policy
+* Used PR to fix the UI of a MVP
+* Made "managment" understand how much "Work In Progress" an engineering team can handle using with Github Issues & Pull Requests 
+* Used Github to share and collaborate on Tech Talk Proposals (So Meta!)
+
 Pitch:
+* This talk will empower Engineers to go beyond just debugging code, but also starting to debug their own Organizations and Workflows
+* It will show how powerful READMEs can be, and how to leverage them to change whole organizations
