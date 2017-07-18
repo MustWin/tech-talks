@@ -1,5 +1,5 @@
 
-Title: Gitting the CEO to Git. Making organizations Transparent adding everyone to GitHub.
+Title: Gitting the CEO to Git. Making organizations Transparent by adding everyone to GitHub.
 
 Speaker: Gonzalo
 
@@ -10,7 +10,7 @@ Many of our clients come to us asking for help on improving their Engineering Te
 this using a platform you know and love: GitHub.
 
 This talk will show how you can use Pull Requests & Github Issues for almost
-anything in your organization and show how this collaborative worklfow will help making your
+anything in your organization and show how this collaborative worklfow will make your
 workplace a better and healthier place to work.
 
 Details: 
