@@ -24,5 +24,5 @@ I'll break down the following:
     - Modular CSS: More specialized CSS for each declared component
 - Extending manageable CSS via State management
 
-**Notes:**
-- Google Slides Presentation
+**Extra Content:**
+- [Google Docs Abstract](https://docs.google.com/a/mustwin.com/document/d/1PmNVh1d4tfO93mAtVJmc7RrdtSd4CKixE7Mfv_xMzLA/edit?usp=sharing)
