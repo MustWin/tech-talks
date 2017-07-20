@@ -1,18 +1,14 @@
-**Title**
+**_Open Source Inspiration: Rewriting the rules of CSS in React_**
 
-Open Source Inspiration: Rewriting the rules of CSS in React
+Abstract**
 
-**Abstract**
-
-React is one of the most popular Front end frameworks in the modern web. It's component-first philosophy drives the direction and consistency of the platform, include areas such as CSS. So much so that CSS is "componentized" into React files and left unable to take advantage of more global elements found in more custom css libraries, such as heavily modified Bootstrap Libraries. In this talk, I'll talk about the available cohesion of using globally available CSS libraries, while still giving overall control to the component referenced via state management.
+React, the most popular front end framework of the modern web, rewrote the rules on how to design a solid web app. It’s component first strategy echoes across all aspects of the framework, including the way we write CSS. This birth many open source initiative to write CSS the “react way” with CSS Modules, doing away with the more monolithic approach. In this talk, I’ll share that not all is doom and gloom with global CSS, introduce the “minimum spec” concept, and show how it can co-exist with existing practices such as CSS Modules.
 
 **Summary**
 
-React is talking the web by storm with it’s componentized structure, making strides in defining the core practices of how to write a good react app. One result the introduction of CSS Modules: a localized, reusable CSS snippet that can be embedded to any component. This changed the rules of CSS best practices. What once started as inline declarations for each line of HTML now has evolved into more manageable chunks.
+React is talking the web by storm with it’s componentized structure, making strides in defining the core practices of how to write a good react app. One result is the introduction of CSS Modules: a localized, reusable CSS snippet that can be embedded to any component. This changed the rules of CSS best practices. What once started as inline declarations for each line of HTML now has evolved into more manageable chunks.
 
 I explored Github for Open Source initiatives that synergize the ideas of monolithic apps with the benefits CSS modules bring. Without a suitable replacement, I developed the idea of “the minimum spec”. The Minimum spec combines the ideas and benefits a global CSS declaration can bring to an application, while not interfering with the intricate benefits CSS modules have on components.
-
-As fan of more globally accessible CSS, I’ll share my experiment into solving the CSS problem, by introducing the concept of “the minimum spec”: a globally available pre-processed CSS file that contains the basic ingredients any modern web application needs, as well as how it can co-exists with CSS modules.
 
 I’ll walk through the entire process, from using various open source repositories as starting stones and inspiration, combining existing techniques and strategies I’ve learned from being a UX developer, and show how I account for not just the developer, but also the designer, the project manager, and the client. Anyone from those just starting to seasoned React veterans can pick up some new insight on the world of writing manageable CSS.
 
