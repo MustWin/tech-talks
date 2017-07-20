@@ -16,7 +16,7 @@ _I'll break down the following:_
   - What they do poorly
     - less freedom in more one-off CSS setups due to existing CSS definitions
     - new CSS can override existing CSS and cause visual errors or behavior
-    - just like the monolith they reside in, size can greatly increase
+    - when unchecked or improperly managed, their size can greatly increase
 - Current CSS Practices in React/React Native
   - Inline CSS: keeps in in the component, more global-oriented elements must be redefined
   - CSS Modules: more declarable snippets and locally scoped. but no global scope requires multiple declarations across components
